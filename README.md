@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 Comment Toxicity Detection using Deep Learning
 
 ## 📌 Project Overview
@@ -228,3 +229,5 @@ GitHub: https://github.com/Sagar-Bhawal
 ## 📜 License
 
 This project is developed for educational and portfolio purposes.
+=======
+
